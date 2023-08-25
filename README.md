@@ -9,3 +9,5 @@ Agregamos una nueva linea para commitear
 Modificaciones para el trabajo de metodloía de insvestigación 
 
 grupo computers team
+
+Sarmiento Lucas, Francisco Redondo, santiago Micieli
